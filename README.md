@@ -9,5 +9,3 @@ I'm also deeply curious about Artificial Intelligence and am busy experimenting 
 👯 Looking to collaborate on: Open-source projects involving .NET Core, Angular, or anything involving the Go/React stack.
 💬 Ask me about: C#, TypeScript, RxJS, or why I'm excited about the Go runtime.
 📫 How to reach me: bftelman@gmail.com
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bftelman)](https://github.com/anuraghazra/github-readme-stats)
